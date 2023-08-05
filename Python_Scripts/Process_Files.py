@@ -1,3 +1,6 @@
+# This script will give user choice to perform various file opearations on CWD
+# On first execution this script will skip to the specific file, afterward files will be processes on numeric short order
+
 import os
 import subprocess
 import re
