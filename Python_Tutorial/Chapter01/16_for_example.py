@@ -4,3 +4,9 @@ for i in numbers:
 	sum = sum + i
 print("The sum is", sum)
 
+
+
+"""
+Output:
+The sum is 48
+"""

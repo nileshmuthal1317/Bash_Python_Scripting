@@ -4,3 +4,9 @@ if a > 0:
 else:
 	print("Negative number")
 
+
+
+"""
+Output:
+Positive number
+"""

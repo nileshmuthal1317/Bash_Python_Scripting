@@ -6,3 +6,10 @@ a = -10
 if a > 0:
 	print(a, "is a positive number.")
 
+
+
+"""
+Output:
+10 is a positive number.
+This statement is always printed.
+"""

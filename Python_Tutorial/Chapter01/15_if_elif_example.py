@@ -6,3 +6,9 @@ elif a == 10:
 else:
     print("a is negative")
 
+
+
+"""
+Output:
+a is equal to 10
+"""

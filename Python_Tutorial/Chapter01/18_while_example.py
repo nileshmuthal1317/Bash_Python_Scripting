@@ -6,3 +6,9 @@ while i <= a:
 	i = i + 1
 print("The sum is", sum)
 
+
+
+"""
+Output:
+The sum is 55
+"""
